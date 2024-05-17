@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  margin: 3.55rem 0 7rem 0;
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+  border: 1px solid #000;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
